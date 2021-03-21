@@ -32,8 +32,8 @@
 
 # Assignment 3:
 '''
-    Use the assignment 2 , print the sum of each pair using add_function
-    output
+    Use the assignment 2 , print the sum of each pair by defining a new add_function.
+    Output should look like below:
     1,1 = 2
     1,2 = 3
     1,3 = 4
@@ -50,7 +50,7 @@
     Take an input year from input() function
 
     Write a function[is_leap_year(year)] to calculate if a year is a leap year and returns YES else NO
-    Pass the input variable to the isLeapYear(year) function which returns YES or NO
+    Pass the input variable to the is_leap_year(year) function which returns YES or NO
     Write another function which takes the year and the result of isLeapYear() function
     eg : printMessage(year,result)
     This function prints the final message as below
