@@ -48,14 +48,14 @@
 # Assignment 4:
 '''
     Take an input year from input() function
-
-    Write a function[is_leap_year(year)] to calculate if a year is a leap year and returns YES else NO
-    Pass the input variable to the is_leap_year(year) function which returns YES or NO
-    Write another function which takes the year and the result of isLeapYear() function
+    Pass the input variable to the is_leap_year(year) function which returns YES(if it's a leap year) else NO
+    Write another function which takes the year and the result of is_leap_year() function
     eg : printMessage(year,result)
     This function prints the final message as below
     Final output should be
       YES You have entered a Leap Year and the year is <Actual Year>
+      or
+      NO <Actual Year> is not a Leap Year
 '''
 # Assignment 5:
 '''
